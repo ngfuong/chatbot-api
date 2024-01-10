@@ -1,10 +1,13 @@
 # Chatbot LLM (GPT 3.5) API
 ## Setup
+Install requirements
 ```
 pip install -r requirements.txt
 ```
-## Set API key
-In file `.env`, replace the placeholder with your API key `OPENAI_API_KEY="YOUR_KEY_HERE"`
+In file `.env`, replace the placeholder with your API key
+```
+OPENAI_API_KEY="YOUR_KEY_HERE"
+```
 ## Usage
 ### Run application
 ```
